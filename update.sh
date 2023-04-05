@@ -1,2 +1,2 @@
 rm -rf xaf
-git clone 
+git clone https://github.com/Alonewolfpro/xaf.git
