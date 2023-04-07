@@ -6,5 +6,4 @@ git clone https://github.com/1N3/Sn1per
 cd toriptables3
 python3 toriptables3.py -l
 cd ..
-cd Sn1per
-sh install.sh
+sh Sn1per/install.sh
